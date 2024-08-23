@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "192A0FF5-14DE-4A21-B449-7A4719A769FA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1487B5FD-186C-4E69-99F9-EE4E65421F63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftExamApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "460D6CB9-1ED9-44D6-9A26-6BFE3601B7DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftExamApp/Webservice/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "postData(to:withBody:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F04894FA-2CDA-42C2-A208-54E05064D604"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftExamApp/Webservice/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "postData(to:withBody:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F04894FA-2CDA-42C2-A208-54E05064D604 - ee3bf75fa25fed09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftExamApp.ApiService.postData(to: Foundation.URL, withBody: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Result&lt;SwiftExamApp.Welcome, SwiftExamApp.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftExamApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tinku/Downloads/SwiftExamApp/SwiftExamApp/Webservice/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1859">
+               </Location>
+               <Location
+                  uuid = "F04894FA-2CDA-42C2-A208-54E05064D604 - ee3bf75fa25fed09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftExamApp.ApiService.postData(to: Foundation.URL, withBody: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Result&lt;SwiftExamApp.Welcome, SwiftExamApp.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftExamApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tinku/Downloads/SwiftExamApp/SwiftExamApp/Webservice/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1940">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84FCB0F2-4001-436B-BA1B-06B2A8201159"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftExamApp/Webservice/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "postData(to:withBody:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE44E187-0A9F-4D86-8919-A825116A03F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftExamApp/Webservice/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "postData(to:withBody:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3A79BAA-2093-46A1-9CA4-2B74A04C37E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftExamApp/Webservice/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "postData(to:withBody:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3A79BAA-2093-46A1-9CA4-2B74A04C37E7 - 5eb7d176499999ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftExamApp.ApiService.postData(to: Foundation.URL, withBody: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Result&lt;SwiftExamApp.DataModel, SwiftExamApp.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftExamApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tinku/Downloads/SwiftExamApp/SwiftExamApp/Webservice/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "906">
+               </Location>
+               <Location
+                  uuid = "A3A79BAA-2093-46A1-9CA4-2B74A04C37E7 - 2d49769af5c4ce21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftExamApp.ApiService.postData(to: Foundation.URL, withBody: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Result&lt;SwiftExamApp.DataModel, SwiftExamApp.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftExamApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tinku/Downloads/SwiftExamApp/SwiftExamApp/Webservice/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "205">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9982501-4DA6-4B29-9746-A3B14F0A4063"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftExamApp/Webservice/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "postData(to:withBody:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C8C2D74-4D89-4D39-8536-525C711B1DD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftExamApp/Webservice/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "postData(to:withBody:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
